@@ -8,7 +8,7 @@ Create a commercially positioned eBook for an adult buying audience using a mark
 
 ## Current phase
 
-P6 — Concept 9 conditionally approved; final collision check before P7.
+P7 — Book architecture for approved Concept 9.
 
 ## Current repository
 
@@ -29,16 +29,20 @@ lukeniukrostyslav/bookv3
 7. Build for publication from the beginning, not as an afterthought.
 8. The new book must have its own original creative identity.
 9. Primary commercial market is the United States; Italy is a later localization market.
-10. No concept enters full P7 production until comparable-title and title/catalog collision checks are complete.
+10. The working title is provisional until publication-stage metadata/title checks.
 
 ## Current owner action
 
 None required yet.
 
-## Current P6 status
+## P6 status
 
-Concept 9 — working title "The Record Says She Never Left" — has passed the mechanism and commercial specification gate and is conditionally approved for P7 preparation. The title remains provisional. A final title/catalog collision check and one last comparable-title check must be completed before P6 is declared closed.
+P6 is closed at 100% for concept selection. Concept 9 is the approved book concept. The exact-title/comparable collision check found no blocking collision in the searches performed on 2026-09-21. This is not legal trademark clearance.
+
+## P7 status
+
+P7 has started at 15%. The initial macro architecture and evidence-engine rules are saved. Detailed outline work is the next autonomous step.
 
 ## Next autonomous step
 
-Complete the final title/comparable collision check, then begin P7 book architecture if no blocking collision is found. Preserve the core mechanism and constraints from the final commercial specification.
+Build the complete evidence timeline, suspect map, clue/reveal matrix, emotional arc, antagonist objective, final reveal test, target length/chapter count and then the chapter-by-chapter outline. Keep the working title replaceable.
