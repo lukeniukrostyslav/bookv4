@@ -39,10 +39,11 @@ P8 = 100%. Final audit passed. Character/relationship arcs, locations, atmospher
 - Chapter 7 — 100% complete (1,999 words).
 - Chapter 8 — 100% complete (2,296 words). Chapter 8 separates the phone event from account/profile attribution and preserves uncertainty around physical presence.
 - Chapter 9 — 100% complete (2,017 words). Chapter 9 separates displayed transport time from registered pickup events and keeps passenger identity unproven.
-- Accumulated manuscript: 19,262 words.
-- Completed chapters: 9/36.
-- Average completed chapter: 2,140 words.
-- Simple full-book projection at current average: approximately 77,000 words; this is an early production signal, not a target revision.
+- Chapter 10 — 100% complete (2,002 words). Chapter 10 establishes the workplace record as another apparent confirmation, separates the current profile from its source lineage, and connects the source reference to Claire's earlier paper trail without declaring the mechanism solved.
+- Accumulated manuscript: 21,264 words.
+- Completed chapters: 10/36.
+- Average completed chapter: 2,126 words.
+- Simple full-book projection at current average: approximately 76,550 words; this is an early production signal, not a target revision.
 
 ## Next autonomous step
-Await owner command for Chapter 10. Preserve the frozen architecture.
+Await owner command for Chapter 11. Preserve the frozen architecture.
