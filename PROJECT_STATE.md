@@ -8,7 +8,7 @@ Create a commercially positioned eBook for an adult buying audience using a mark
 
 ## Current phase
 
-P6 — Commercial concept validation, second-generation concept pass.
+P6 — Commercial concept validation, focused deep validation of Concepts 9 and 15.
 
 ## Current repository
 
@@ -37,8 +37,8 @@ None required yet.
 
 ## Current P6 status
 
-The first-generation concepts were stress-tested against current U.S. comparables and were not approved. A second-generation set of eight concepts has been created using the design rule: familiar commercial promise + unusual story mechanism.
+The second-generation U.S. validation pass is complete. Concept 9 and Concept 15 advanced to focused deep validation. Concepts 11, 12, 13 and 16 are held for rework. Concepts 10 and 14 are archived because current evidence found direct title/mechanism overlap.
 
 ## Next autonomous step
 
-Validate the strongest second-generation concepts against current U.S. comparable titles, mechanism overlap, reader promise, plausibility, standalone resolution, and series potential. Approve a concept only when evidence supports the decision.
+Run a focused deep-comparable and mechanism stress test on Concepts 9 and 15. Test title distinctiveness, mechanism overlap, plausibility, fair-play solvability, escalation engine, emotional stakes, ending architecture, and series potential. Do not start P7 unless one concept clears the gate.
