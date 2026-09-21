@@ -13,7 +13,7 @@ Date: 2026-09-21
 | P6 | Commercial book concept | 100% |
 | P7 | Book architecture / outline | 100% |
 | P8 | World / setting / character bible, if fiction | 100% |
-| P9 | Manuscript production | 13.9% |
+| P9 | Manuscript production | 16.7% |
 | P10 | Literary editing | 0% |
 | P11 | Logic / continuity / fact QA | 0% |
 | P12 | Word-count and structural QA | 0% |
@@ -34,6 +34,6 @@ Date: 2026-09-21
 - P6 = 100%: concept selection, mechanism validation, commercial specification and final exact-title/comparable collision check were completed. Concept 9 is approved; the working title remains replaceable and legal trademark clearance is outside this percentage.
 - P7 = 100%: macro architecture, story engine, evidence timeline, antagonist/suspect map, clue/reveal matrix, emotional arc, 36-chapter outline V2, detailed chapter cards, and final chapter-card freeze audit are complete. The four required refinements were incorporated and verified. P7 architecture is frozen.
 - P8 = 100%: character/world/atmosphere bible, relationship and emotional arcs, key-location/atmosphere map, physical-geography rules, sensory production standard, and final continuity/production-handoff audit are complete. The audit passed with no architecture-blocking defects. Real-world legal/system procedure verification remains correctly deferred to P11.
-- P9 = 13.9%: Chapters 1–5 of 36 are complete and saved in manuscript/chapters/. Chapter 1 factual word count is 2,083 words; Chapter 2 factual word count is 2,147 words; Chapter 3 factual word count is 2,239 words; Chapter 4 factual word count is 1,961 words; Chapter 5 factual word count is 2,284 words. Accumulated manuscript is 10,755 words; Chapters 6–36 and the epilogue remain unproduced.
+- P9 = 16.7%: Chapters 1–6 of 36 are complete and saved in manuscript/chapters/. Chapter 1 factual word count is 2,083 words; Chapter 2 factual word count is 2,147 words; Chapter 3 factual word count is 2,239 words; Chapter 4 factual word count is 1,961 words; Chapter 5 factual word count is 2,284 words; Chapter 6 factual word count is 2,272 words. Accumulated manuscript is 13,027 words; Chapters 7–36 and the epilogue remain unproduced.
 
 Percentages are evidence-based and will be changed only when completion evidence exists.
