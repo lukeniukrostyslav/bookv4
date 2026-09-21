@@ -8,7 +8,7 @@ Create a commercially positioned eBook for an adult buying audience using a mark
 
 ## Current phase
 
-P6 — Commercial concept validation, focused deep validation of Concepts 9 and 15.
+P6 — Final approval specification for Concept 9.
 
 ## Current repository
 
@@ -37,8 +37,8 @@ None required yet.
 
 ## Current P6 status
 
-The second-generation U.S. validation pass is complete. Concept 9 and Concept 15 advanced to focused deep validation. Concepts 11, 12, 13 and 16 are held for rework. Concepts 10 and 14 are archived because current evidence found direct title/mechanism overlap.
+Focused deep validation was completed for Concepts 9 and 15. Concept 15 is on hold because its communication mechanism creates a higher plausibility burden. Concept 9 is the sole candidate advancing to a final one-page commercial specification and final approval gate.
 
 ## Next autonomous step
 
-Run a focused deep-comparable and mechanism stress test on Concepts 9 and 15. Test title distinctiveness, mechanism overlap, plausibility, fair-play solvability, escalation engine, emotional stakes, ending architecture, and series potential. Do not start P7 unless one concept clears the gate.
+Build and stress-test the final commercial specification for Concept 9: protagonist, relationship, location, inciting incident, evidence mechanism, antagonist objective, midpoint reversal, final reveal, emotional payoff, positioning/title options, standalone ending and series extension. Only after that gate may P7 begin.
