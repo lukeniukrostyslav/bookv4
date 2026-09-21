@@ -9,8 +9,8 @@ Date: 2026-09-21
 | P2 | eBook market research | 95% |
 | P3 | Buyer/audience segmentation | 65% |
 | P4 | Genre and subgenre opportunity analysis | 80% |
-| P5 | Competitive-title analysis | 75% |
-| P6 | Commercial book concept | 20% |
+| P5 | Competitive-title analysis | 80% |
+| P6 | Commercial book concept | 35% |
 | P7 | Book architecture / outline | 0% |
 | P8 | World / setting / character bible, if fiction | 0% |
 | P9 | Manuscript production | 0% |
@@ -31,8 +31,8 @@ Date: 2026-09-21
 - P2 = 95%: U.S.-first market evidence, format demographics, current genre signals, opportunity map and buyer-intent evidence are documented. A final title-level dataset remains.
 - P3 = 65%: U.S. eBook demographics, high-frequency readership and four working buyer profiles are documented; direct purchase-frequency and willingness-to-pay evidence remains limited.
 - P4 = 80%: six commercial lanes plus a narrowed set of four primary audience/promise combinations are documented.
-- P5 = 75%: title-level matrix, deeper competitor patterns, U.S. opportunity gaps and buyer-intent signals are documented; broader title/reader-complaint validation remains.
-- P6 = 20%: eight original commercial concept candidates have been generated and documented. None is approved; validation against comparable titles, reader expectations, differentiation, series logic and production risk remains.
+- P5 = 80%: title-level matrix, deeper competitor patterns, U.S. opportunity gaps, buyer-intent signals and first concept stress-test are documented; close-comparable datasets for the remaining shortlist are still required.
+- P6 = 35%: eight original concepts were generated and a first U.S. validation pass narrowed the field to four concepts requiring deeper comparable-title and reader-feedback analysis. No concept is approved.
 - P7 onward = 0%: no commercial concept has been approved, so downstream production has correctly not started.
 
 Percentages are evidence-based and will be changed only when completion evidence exists.
