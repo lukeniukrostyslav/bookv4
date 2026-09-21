@@ -12,7 +12,7 @@ Date: 2026-09-21
 | P5 | Competitive-title analysis | 85% |
 | P6 | Commercial book concept | 100% |
 | P7 | Book architecture / outline | 100% |
-| P8 | World / setting / character bible, if fiction | 85% |
+| P8 | World / setting / character bible, if fiction | 100% |
 | P9 | Manuscript production | 0% |
 | P10 | Literary editing | 0% |
 | P11 | Logic / continuity / fact QA | 0% |
@@ -25,7 +25,6 @@ Date: 2026-09-21
 | P18 | Final publication QA | 0% |
 
 ## Evidence behind current percentages
-
 - P0 = 100%: repository initialized and foundational project documents saved.
 - P1 = 100%: BOOKV3 workflow audit and transfer matrix completed; creative content was intentionally excluded.
 - P2 = 95%: U.S.-first market evidence, format demographics, current genre signals, opportunity map and buyer-intent evidence are documented. A final title-level dataset remains.
@@ -33,8 +32,8 @@ Date: 2026-09-21
 - P4 = 80%: six commercial lanes plus a narrowed set of four primary audience/promise combinations are documented.
 - P5 = 85%: title-level matrix, deeper competitor patterns, U.S. opportunity gaps, buyer-intent signals and detailed comparable-title passes are documented. Broader reader-feedback and quantitative title datasets remain.
 - P6 = 100%: concept selection, mechanism validation, commercial specification and final exact-title/comparable collision check were completed. Concept 9 is approved; the working title remains replaceable and legal trademark clearance is outside this percentage.
-- P7 = 100%: macro architecture, story engine, evidence timeline, antagonist/suspect map, clue/reveal matrix, emotional arc, 36-chapter outline V2, detailed chapter cards, and final chapter-card freeze audit are complete. The four required refinements were incorporated and verified. P7 architecture is frozen; manuscript prose remains locked until the production phase begins.
-- P8 = 85%: character/world/atmosphere bible is complete at production-reference level; relationship and emotional arcs plus the key-location/atmosphere map are now documented. Remaining P8 work is the final continuity/reference audit and production handoff checklist.
+- P7 = 100%: macro architecture, story engine, evidence timeline, antagonist/suspect map, clue/reveal matrix, emotional arc, 36-chapter outline V2, detailed chapter cards, and final chapter-card freeze audit are complete. The four required refinements were incorporated and verified. P7 architecture is frozen.
+- P8 = 100%: character/world/atmosphere bible, relationship and emotional arcs, key-location/atmosphere map, physical-geography rules, sensory production standard, and final continuity/production-handoff audit are complete. The audit passed with no architecture-blocking defects. Real-world legal/system procedure verification remains correctly deferred to P11.
 - P9 onward = 0%: downstream production has not started.
 
 Percentages are evidence-based and will be changed only when completion evidence exists.
