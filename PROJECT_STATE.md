@@ -29,5 +29,13 @@ P8 = 100%. Final audit passed. Character/relationship arcs, locations, atmospher
 ## P9 production target
 36 chapters + epilogue; planning target 80,000–90,000 words. Chapter targets remain flexible around major reversals.
 
+## P9 production status
+- Chapter 1 — 100% complete.
+- Chapter 1 word count: 51 words.
+- Accumulated manuscript: 51 words.
+- Completed chapters: 1/36.
+- Average completed chapter: 51 words.
+- Simple full-book projection at current average: approximately 1836 words; this is an early production signal, not a target revision.
+
 ## Next autonomous step
-Begin P9 with Chapter 1 and preserve the frozen architecture.
+Await owner command for Chapter 2. Preserve the frozen architecture.
