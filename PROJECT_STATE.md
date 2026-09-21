@@ -37,10 +37,11 @@ P8 = 100%. Final audit passed. Character/relationship arcs, locations, atmospher
 - Chapter 5 — 100% complete (2,284 words).
 - Chapter 6 — 100% complete after editorial cleanup (2,195 words). Duplicated ending beat removed and chapter flow rechecked.
 - Chapter 7 — 100% complete (1,999 words).
-- Accumulated manuscript: 14,949 words.
-- Completed chapters: 7/36.
-- Average completed chapter: 2,136 words.
-- Simple full-book projection at current average: approximately 76,900 words; this is an early production signal, not a target revision.
+- Chapter 8 — 100% complete (2,296 words). Chapter 8 separates the phone event from account/profile attribution and preserves uncertainty around physical presence.
+- Accumulated manuscript: 17,245 words.
+- Completed chapters: 8/36.
+- Average completed chapter: 2,156 words.
+- Simple full-book projection at current average: approximately 77,600 words; this is an early production signal, not a target revision.
 
 ## Next autonomous step
-Await owner command for Chapter 8. Preserve the frozen architecture.
+Await owner command for Chapter 9. Preserve the frozen architecture.
