@@ -1,6 +1,6 @@
 # PROJECT STATE — BOOKV4
 
-Date: 2026-09-21
+Date: 2026-09-22
 
 ## Current phase
 P9 — Manuscript production for approved Concept 9.
@@ -42,10 +42,11 @@ P8 = 100%. Final audit passed. Character/relationship arcs, locations, atmospher
 - Chapter 10 — 100% complete (2,002 words). Chapter 10 establishes the workplace record as another apparent confirmation, separates the current profile from its source lineage, and connects the source reference to Claire's earlier paper trail without declaring the mechanism solved.
 - Chapter 11 — 100% complete (2,041 words). Chapter 11 reveals that the three apparent confirmations are not yet proven independent: each contains a separate event layer and identity-attribution layer, and their histories share a temporal predecessor that requires source-lineage verification.
 - Chapter 12 — 100% complete (1,993 words). Chapter 12 connects Claire's investigation to family history through Ethan, a physical old document, and a specific question about the first version; it introduces no new mechanism and keeps the family lead separate from the disappearance until verified.
-- Accumulated manuscript: 25,298 words.
-- Completed chapters: 12/36.
-- Average completed chapter: 2,108 words.
-- Simple full-book projection at current average: approximately 75,894 words; this is an early production signal, not a target revision.
+- Chapter 13 — 100% complete (1484 words). Chapter 13 compares the physical family original with a later digital version, establishes that the discrepancy and correction request predate Claire's disappearance, and preserves uncertainty about the causal connection.
+- Accumulated manuscript: 26,782 words.
+- Completed chapters: 13/36.
+- Average completed chapter: 2,060 words.
+- Simple full-book projection at current average: approximately 74,160 words; this is an early production signal, not a target revision.
 
 ## Next autonomous step
-Await owner command for Chapter 13. Preserve the frozen architecture.
+Await owner command for Chapter 14. Preserve the frozen architecture.
