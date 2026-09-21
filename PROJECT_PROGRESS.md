@@ -6,10 +6,10 @@ Date: 2026-09-21
 |---|---|---:|
 | P0 | Foundation / repository initialization | 100% |
 | P1 | BOOKV3 process audit and transfer matrix | 100% |
-| P2 | eBook market research | 90% |
-| P3 | Buyer/audience segmentation | 55% |
-| P4 | Genre and subgenre opportunity analysis | 75% |
-| P5 | Competitive-title analysis | 65% |
+| P2 | eBook market research | 95% |
+| P3 | Buyer/audience segmentation | 65% |
+| P4 | Genre and subgenre opportunity analysis | 80% |
+| P5 | Competitive-title analysis | 75% |
 | P6 | Commercial book concept | 0% |
 | P7 | Book architecture / outline | 0% |
 | P8 | World / setting / character bible, if fiction | 0% |
@@ -28,10 +28,10 @@ Date: 2026-09-21
 
 - P0 = 100%: repository initialized and foundational project documents saved.
 - P1 = 100%: BOOKV3 workflow audit and transfer matrix completed; creative content was intentionally excluded.
-- P2 = 90%: broad U.S.-first market evidence, demographic reading evidence, current genre signals and opportunity map are documented. Direct title-level purchase-intent evidence remains.
-- P3 = 55%: U.S. eBook age/education segments and high-frequency readership indicators are documented; direct buyer demographics and willingness-to-pay remain.
-- P4 = 75%: six candidate commercial lanes and a U.S.-first opportunity map are documented; detailed subgenre selection remains.
-- P5 = 65%: initial title matrix, deeper competitor patterns and U.S. opportunity-gap analysis are documented; larger comparable-title datasets and reader-complaint analysis remain.
-- P6 onward = 0%: no final commercial concept has been locked, so downstream production has correctly not started.
+- P2 = 95%: U.S.-first market evidence, format demographics, current genre signals, opportunity map and buyer-intent evidence are documented. A final title-level dataset remains.
+- P3 = 65%: U.S. eBook demographics, high-frequency readership and four working buyer profiles are documented; direct purchase-frequency and willingness-to-pay evidence remains limited.
+- P4 = 80%: six commercial lanes plus a narrowed set of four primary audience/promise combinations are documented.
+- P5 = 75%: title-level matrix, deeper competitor patterns, U.S. opportunity gaps and buyer-intent signals are documented; broader title/reader-complaint validation remains.
+- P6 onward = 0%: no final commercial concept has been selected, so downstream production has correctly not started.
 
 Percentages are evidence-based and will be changed only when completion evidence exists.
