@@ -8,7 +8,7 @@ Create a commercially positioned eBook for an adult buying audience using a mark
 
 ## Current phase
 
-P0 — Foundation and transfer from BOOKV3.
+P6 — Commercial concept validation, second-generation concept pass.
 
 ## Current repository
 
@@ -28,11 +28,17 @@ lukeniukrostyslav/bookv3
 6. Use checkpoints and recovery documentation.
 7. Build for publication from the beginning, not as an afterthought.
 8. The new book must have its own original creative identity.
+9. Primary commercial market is the United States; Italy is a later localization market.
+10. No concept enters P7 until it passes comparable-title and mechanism-level validation.
 
 ## Current owner action
 
 None required yet.
 
+## Current P6 status
+
+The first-generation concepts were stress-tested against current U.S. comparables and were not approved. A second-generation set of eight concepts has been created using the design rule: familiar commercial promise + unusual story mechanism.
+
 ## Next autonomous step
 
-Complete the BOOKV3 process audit and build the commercial-market research framework.
+Validate the strongest second-generation concepts against current U.S. comparable titles, mechanism overlap, reader promise, plausibility, standalone resolution, and series potential. Approve a concept only when evidence supports the decision.
