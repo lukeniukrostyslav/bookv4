@@ -11,7 +11,7 @@ Date: 2026-09-21
 | P4 | Genre and subgenre opportunity analysis | 80% |
 | P5 | Competitive-title analysis | 85% |
 | P6 | Commercial book concept | 100% |
-| P7 | Book architecture / outline | 55% |
+| P7 | Book architecture / outline | 100% |
 | P8 | World / setting / character bible, if fiction | 0% |
 | P9 | Manuscript production | 0% |
 | P10 | Literary editing | 0% |
@@ -33,7 +33,7 @@ Date: 2026-09-21
 - P4 = 80%: six commercial lanes plus a narrowed set of four primary audience/promise combinations are documented.
 - P5 = 85%: title-level matrix, deeper competitor patterns, U.S. opportunity gaps, buyer-intent signals and detailed comparable-title passes are documented. Broader reader-feedback and quantitative title datasets remain.
 - P6 = 100%: concept selection, mechanism validation, commercial specification and final exact-title/comparable collision check were completed. Concept 9 is approved; the working title remains replaceable and legal trademark clearance is outside this percentage.
-- P7 = 55%: macro architecture, story engine, evidence timeline, antagonist/suspect map, clue/reveal matrix, emotional arc and 36-chapter outline V2 are complete. Final continuity/reveal audit passes the major gate, with four minor refinements required in chapter cards before architecture freeze.
+- P7 = 100%: macro architecture, story engine, evidence timeline, antagonist/suspect map, clue/reveal matrix, emotional arc, 36-chapter outline V2, detailed chapter cards, and final chapter-card freeze audit are complete. The four required refinements were incorporated and verified. P7 architecture is frozen; manuscript prose remains locked until the production phase begins.
 - P8 onward = 0%: downstream production has not started.
 
 Percentages are evidence-based and will be changed only when completion evidence exists.
