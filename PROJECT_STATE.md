@@ -44,10 +44,11 @@ P8 = 100%. Final audit passed. Character/relationship arcs, locations, atmospher
 - Chapter 12 — 100% complete (1,993 words). Chapter 12 connects Claire's investigation to family history through Ethan, a physical old document, and a specific question about the first version; it introduces no new mechanism and keeps the family lead separate from the disappearance until verified.
 - Chapter 13 — 100% complete (1484 words). Chapter 13 compares the physical family original with a later digital version, establishes that the discrepancy and correction request predate Claire's disappearance, and preserves uncertainty about the causal connection.
 - Chapter 14 — 100% complete (1681 words). Chapter 14 establishes Mara as a truthful but non-independent witness, separates what she personally saw from what the current workplace record stated, and reveals that Claire explicitly pursued correction history through the records department.
-- Accumulated manuscript: 28,463 words.
-- Completed chapters: 14/36.
-- Average completed chapter: 2,033 words.
-- Simple full-book projection at current average: approximately 73,188 words; this is an early production signal, not a target revision.
+- Chapter 15 — 100% complete (1494 words). Chapter 15 delivers Claire's breadcrumb through correction-history records, reframes the investigation from finding a person in a record to tracing the record's path to a person, and establishes three dated correction requests as a verifiable route without prematurely declaring a common source.
+- Accumulated manuscript: 29,957 words.
+- Completed chapters: 15/36.
+- Average completed chapter: 1,997 words.
+- Simple full-book projection at current average: approximately 71,892 words; this is an early production signal, not a target revision.
 
 ## Next autonomous step
-Await owner command for Chapter 15. Preserve the frozen architecture.
+Await owner command for Chapter 16. Preserve the frozen architecture.
