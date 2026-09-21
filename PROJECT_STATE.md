@@ -8,7 +8,7 @@ Create a commercially positioned eBook for an adult buying audience using a mark
 
 ## Current phase
 
-P7 — Chapter outline and architecture QA for approved Concept 9.
+P7 — Chapter-card freeze preparation for approved Concept 9.
 
 ## Current repository
 
@@ -38,8 +38,8 @@ None required yet.
 
 ## P7 status
 
-P7 is at 38%. The evidence engine, story timeline, antagonist/suspect map, clue/reveal matrix, emotional arc, target length and 36-chapter outline v1 are saved. The outline is not frozen because continuity, timestamp, fair-play and reveal QA are still required.
+P7 is at 55%. Outline V1 was audited, seven continuity/mechanism defects were identified and repaired in Outline V2. Final outline QA now passes the major continuity/reveal gate. Four minor refinements remain before the chapter architecture is frozen.
 
 ## Next autonomous step
 
-Run outline QA: reconcile all dates and evidence dependencies, ensure every clue has a payoff and every reveal has setup, verify antagonist access/opportunity, test whether Nora could solve the mystery earlier, and repair any pacing or logic problems before freezing the chapter outline.
+Create detailed chapter cards for all 36 chapters plus the epilogue, incorporating the four refinements: early event-time vs identity-attribution example, legal/procedural caution, strict Daniel access boundaries, and character-driven technical exposition. Then run a final chapter-card freeze audit.
