@@ -2,49 +2,32 @@
 
 Date: 2026-09-21
 
-## Mission
-
-Create a commercially positioned eBook for an adult buying audience using a market-first research process and the strongest reusable production practices proven in BOOKV3.
-
 ## Current phase
+P9 — Manuscript production for approved Concept 9.
 
-P8 — Final continuity/reference audit and production handoff for approved Concept 9.
-
-## Current repository
-
+## Repository
 lukeniukrostyslav/bookv4
 
-## Reference repository
+## Owner action
+None required.
 
-lukeniukrostyslav/bookv3
+## Locked production rules
+1. P7 architecture is frozen.
+2. P8 production bible and final continuity audit passed.
+3. Write in Russian first, using third-person limited POV centered on Nora.
+4. Prose must be simple, vivid, immersive and physically grounded.
+5. Use 1–3 strong sensory channels per scene, not a checklist.
+6. Every scene must have place, body, immediate goal, obstacle, action, new information and change.
+7. Technical information appears through conflict and discovery, never as a lecture.
+8. Do not introduce new story rules in the finale.
+9. Do not inflate facts, procedures or technical certainty; uncertain real-world details are flagged for P11.
+10. Any architecture change requires an explicit change record.
 
-## Locked principles
+## P8 completion
+P8 = 100%. Final audit passed. Character/relationship arcs, locations, atmosphere, sensory standard, physical geography and continuity handoff are saved in the repository.
 
-1. Research before choosing the book.
-2. Separate evidence from hypotheses.
-3. Do not invent market numbers.
-4. Do not inflate completion percentages.
-5. Keep a complete decision/change ledger.
-6. Use checkpoints and recovery documentation.
-7. Build for publication from the beginning, not as an afterthought.
-8. The new book must have its own original creative identity.
-9. Primary commercial market is the United States; Italy is a later localization market.
-10. The working title is provisional until publication-stage metadata/title checks.
-11. No manuscript production before outline continuity and reveal QA pass.
-12. Manuscript prose must follow the approved Russian writing standard: clarity first, strong POV immersion, concrete physical world, selective sensory detail, natural dialogue, and no decorative description without function.
-
-## Current owner action
-
-None required yet.
-
-## P7 status
-
-P7 is complete at 100%. Outline V1 was audited, seven continuity/mechanism defects were identified and repaired in Outline V2. The final outline QA passed the major continuity/reveal gate. Detailed cards for all 36 chapters plus the epilogue were created, the four required refinements were incorporated, and the final chapter-card freeze audit passed. Architecture is now frozen.
-
-## P8 status
-
-P8 is currently 85%. The production bible defines POV, character psychology, emotional arcs, antagonist access limits, world rules, sensory rules, dominant-impression rules, key objects, dialogue rules, technical exposition rules, tension rules, and first-page requirements. A relationship/emotional-arc map and a key-location/atmosphere map have also been saved.
+## P9 production target
+36 chapters + epilogue; planning target 80,000–90,000 words. Chapter targets remain flexible around major reversals.
 
 ## Next autonomous step
-
-Complete the P8 final continuity/reference audit and production handoff checklist. Do not begin P9 manuscript prose until that audit passes.
+Begin P9 with Chapter 1 and preserve the frozen architecture.
