@@ -5,11 +5,11 @@ Date: 2026-09-21
 | Block | Description | Progress |
 |---|---|---:|
 | P0 | Foundation / repository initialization | 100% |
-| P1 | BOOKV3 process audit and transfer matrix | 25% |
-| P2 | eBook market research | 0% |
-| P3 | Buyer/audience segmentation | 0% |
-| P4 | Genre and subgenre opportunity analysis | 0% |
-| P5 | Competitive-title analysis | 0% |
+| P1 | BOOKV3 process audit and transfer matrix | 100% |
+| P2 | eBook market research | 80% |
+| P3 | Buyer/audience segmentation | 45% |
+| P4 | Genre and subgenre opportunity analysis | 60% |
+| P5 | Competitive-title analysis | 20% |
 | P6 | Commercial book concept | 0% |
 | P7 | Book architecture / outline | 0% |
 | P8 | World / setting / character bible, if fiction | 0% |
@@ -24,6 +24,14 @@ Date: 2026-09-21
 | P17 | Launch assets / commercial package | 0% |
 | P18 | Final publication QA | 0% |
 
-Overall foundation progress: 10%.
+## Evidence behind current percentages
+
+- P0 = 100%: repository initialized and foundational project documents saved.
+- P1 = 100%: BOOKV3 workflow audit and transfer matrix completed; creative content was intentionally excluded.
+- P2 = 80%: broad market evidence collected and documented; title-level purchase/competition research remains.
+- P3 = 45%: initial adult reader segments documented; buyer purchase behavior and willingness-to-pay still require deeper evidence.
+- P4 = 60%: four candidate commercial lanes mapped; subgenre-level comparison remains.
+- P5 = 20%: competitive framework and first comparative evidence documented; concrete title-level matrix is still pending.
+- P6 onward = 0%: no final commercial concept has been locked, so downstream production has correctly not started.
 
 Percentages are evidence-based and will be changed only when completion evidence exists.
