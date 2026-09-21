@@ -6,10 +6,10 @@ Date: 2026-09-21
 |---|---|---:|
 | P0 | Foundation / repository initialization | 100% |
 | P1 | BOOKV3 process audit and transfer matrix | 100% |
-| P2 | eBook market research | 85% |
-| P3 | Buyer/audience segmentation | 50% |
-| P4 | Genre and subgenre opportunity analysis | 65% |
-| P5 | Competitive-title analysis | 55% |
+| P2 | eBook market research | 90% |
+| P3 | Buyer/audience segmentation | 55% |
+| P4 | Genre and subgenre opportunity analysis | 75% |
+| P5 | Competitive-title analysis | 65% |
 | P6 | Commercial book concept | 0% |
 | P7 | Book architecture / outline | 0% |
 | P8 | World / setting / character bible, if fiction | 0% |
@@ -28,10 +28,10 @@ Date: 2026-09-21
 
 - P0 = 100%: repository initialized and foundational project documents saved.
 - P1 = 100%: BOOKV3 workflow audit and transfer matrix completed; creative content was intentionally excluded.
-- P2 = 85%: broad market evidence is documented and the strategy is now explicitly US-first; title-level purchase/competition research remains.
-- P3 = 50%: initial adult reader segments are documented and US eBook demographic evidence is incorporated; direct buyer/purchase behavior still requires deeper evidence.
-- P4 = 65%: candidate commercial lanes are mapped with US-first criteria; subgenre opportunity comparison remains.
-- P5 = 55%: competitor framework, initial title matrix and deeper competitive patterns are documented; a formal US opportunity-gap matrix and broader title dataset are still required.
+- P2 = 90%: broad U.S.-first market evidence, demographic reading evidence, current genre signals and opportunity map are documented. Direct title-level purchase-intent evidence remains.
+- P3 = 55%: U.S. eBook age/education segments and high-frequency readership indicators are documented; direct buyer demographics and willingness-to-pay remain.
+- P4 = 75%: six candidate commercial lanes and a U.S.-first opportunity map are documented; detailed subgenre selection remains.
+- P5 = 65%: initial title matrix, deeper competitor patterns and U.S. opportunity-gap analysis are documented; larger comparable-title datasets and reader-complaint analysis remain.
 - P6 onward = 0%: no final commercial concept has been locked, so downstream production has correctly not started.
 
 Percentages are evidence-based and will be changed only when completion evidence exists.
