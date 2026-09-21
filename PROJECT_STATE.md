@@ -42,7 +42,7 @@ P8 = 100%. Final audit passed. Character/relationship arcs, locations, atmospher
 - Chapter 10 — 100% complete (2,002 words). Chapter 10 establishes the workplace record as another apparent confirmation, separates the current profile from its source lineage, and connects the source reference to Claire's earlier paper trail without declaring the mechanism solved.
 - Chapter 11 — 100% complete (2,041 words). Chapter 11 reveals that the three apparent confirmations are not yet proven independent: each contains a separate event layer and identity-attribution layer, and their histories share a temporal predecessor that requires source-lineage verification.
 - Chapter 12 — 100% complete (1,993 words). Chapter 12 connects Claire's investigation to family history through Ethan, a physical old document, and a specific question about the first version; it introduces no new mechanism and keeps the family lead separate from the disappearance until verified.
-- Accumulated manuscript: 233051,993 words.
+- Accumulated manuscript: 25,298 words.
 - Completed chapters: 12/36.
 - Average completed chapter: 2,108 words.
 - Simple full-book projection at current average: approximately 75,894 words; this is an early production signal, not a target revision.
