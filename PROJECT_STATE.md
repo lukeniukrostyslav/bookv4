@@ -33,11 +33,12 @@ P8 = 100%. Final audit passed. Character/relationship arcs, locations, atmospher
 - Chapter 1 — 100% complete (2,083 words).
 - Chapter 2 — 100% complete (2,147 words).
 - Chapter 3 — 100% complete (2,239 words).
-- Chapter 4 — 100% complete (1961 words).
-- Accumulated manuscript: 8,471 words.
-- Completed chapters: 4/36.
-- Average completed chapter: 2,118 words.
-- Simple full-book projection at current average: approximately 76,248 words; this is an early production signal, not a target revision.
+- Chapter 4 — 100% complete (1,961 words).
+- Chapter 5 — 100% complete (2,284 words).
+- Accumulated manuscript: 10,755 words.
+- Completed chapters: 5/36.
+- Average completed chapter: 2,151 words.
+- Simple full-book projection at current average: approximately 77,436 words; this is an early production signal, not a target revision.
 
 ## Next autonomous step
-Await owner command for Chapter 5. Preserve the frozen architecture.
+Await owner command for Chapter 6. Preserve the frozen architecture.
