@@ -10,7 +10,7 @@ Date: 2026-09-21
 | P3 | Buyer/audience segmentation | 65% |
 | P4 | Genre and subgenre opportunity analysis | 80% |
 | P5 | Competitive-title analysis | 85% |
-| P6 | Commercial book concept | 72% |
+| P6 | Commercial book concept | 82% |
 | P7 | Book architecture / outline | 0% |
 | P8 | World / setting / character bible, if fiction | 0% |
 | P9 | Manuscript production | 0% |
@@ -32,7 +32,7 @@ Date: 2026-09-21
 - P3 = 65%: U.S. eBook demographics, high-frequency readership and four working buyer profiles are documented; direct purchase-frequency and willingness-to-pay evidence remains limited.
 - P4 = 80%: six commercial lanes plus a narrowed set of four primary audience/promise combinations are documented.
 - P5 = 85%: title-level matrix, deeper competitor patterns, U.S. opportunity gaps, buyer-intent signals and detailed comparable-title passes are documented. Broader reader-feedback and quantitative title datasets remain.
-- P6 = 72%: first-generation concepts were stress-tested and rejected as insufficiently differentiated; eight second-generation concepts were created; a U.S. validation pass narrowed the field; Concepts 9 and 15 received focused deep mechanism tests; Concept 9 is the sole candidate advancing to a final approval specification, while Concept 15 remains on hold. No concept is approved and P7 has not started.
-- P7 onward = 0%: no commercial concept has been approved, so downstream production has correctly not started.
+- P6 = 82%: first-generation concepts were stress-tested and rejected as insufficiently differentiated; eight second-generation concepts were created; U.S. validation narrowed the field; Concepts 9 and 15 received focused deep mechanism tests; Concept 9 received a full commercial specification and is conditionally approved for P7 architecture. Final title/catalog collision and one last comparable-title check remain before treating P6 as fully closed.
+- P7 onward = 0%: P7 has not yet produced the book architecture/outline; downstream production has correctly not started.
 
 Percentages are evidence-based and will be changed only when completion evidence exists.
