@@ -34,6 +34,6 @@ Date: 2026-09-21
 - P6 = 100%: concept selection, mechanism validation, commercial specification and final exact-title/comparable collision check were completed. Concept 9 is approved; the working title remains replaceable and legal trademark clearance is outside this percentage.
 - P7 = 100%: macro architecture, story engine, evidence timeline, antagonist/suspect map, clue/reveal matrix, emotional arc, 36-chapter outline V2, detailed chapter cards, and final chapter-card freeze audit are complete. The four required refinements were incorporated and verified. P7 architecture is frozen.
 - P8 = 100%: character/world/atmosphere bible, relationship and emotional arcs, key-location/atmosphere map, physical-geography rules, sensory production standard, and final continuity/production-handoff audit are complete. The audit passed with no architecture-blocking defects. Real-world legal/system procedure verification remains correctly deferred to P11.
-- P9 = 2.8%: Chapter 1 of 36 is complete and saved in `manuscript/chapters/01-the-missing-appointment.md`. Chapter 1 factual word count is 51 words. Chapters 2–36 and the epilogue remain unproduced.
+- P9 = 2.8%: Chapter 1 of 36 is complete and saved in `manuscript/chapters/01-the-missing-appointment.md`. Chapter 1 factual word count is 2,083 words. Chapters 2–36 and the epilogue remain unproduced.
 
 Percentages are evidence-based and will be changed only when completion evidence exists.
