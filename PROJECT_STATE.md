@@ -8,7 +8,7 @@ Create a commercially positioned eBook for an adult buying audience using a mark
 
 ## Current phase
 
-P7 — Chapter-card freeze preparation for approved Concept 9.
+P8 — Setting/character bible and production reference pack for approved Concept 9.
 
 ## Current repository
 
@@ -38,8 +38,8 @@ None required yet.
 
 ## P7 status
 
-P7 is at 55%. Outline V1 was audited, seven continuity/mechanism defects were identified and repaired in Outline V2. Final outline QA now passes the major continuity/reveal gate. Four minor refinements remain before the chapter architecture is frozen.
+P7 is complete at 100%. Outline V1 was audited, seven continuity/mechanism defects were identified and repaired in Outline V2. The final outline QA passed the major continuity/reveal gate. Detailed cards for all 36 chapters plus the epilogue were created, the four required refinements were incorporated, and the final chapter-card freeze audit passed. Architecture is now frozen.
 
 ## Next autonomous step
 
-Create detailed chapter cards for all 36 chapters plus the epilogue, incorporating the four refinements: early event-time vs identity-attribution example, legal/procedural caution, strict Daniel access boundaries, and character-driven technical exposition. Then run a final chapter-card freeze audit.
+Begin P8: build the setting, character, relationship, motivation, evidence-handling, timeline-reference, and continuity bible needed to produce the manuscript without reopening the frozen P7 architecture.
