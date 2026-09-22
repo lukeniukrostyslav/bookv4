@@ -65,9 +65,9 @@ P8 = 100%. Final audit passed. Character/relationship arcs, locations, atmospher
 - Chapter 33 — 100% complete (1,292 words). Chapter 33 establishes an independently observed physical contradiction, preserves evidence-versus-inference discipline, records an independent audit trail, and turns the physical archive finding into a basis for the Claire search. No architecture change was made.
 - Chapter 34 — 100% complete (1545 words). Chapter 34 confirms Claire is alive, preserves her agency and uncertainty, reconnects the sisters without resolving the evidence chain prematurely, and establishes the remaining physical document needed for Chapter 35. No architecture change was made.
 - Accumulated manuscript: 64176 words.
-- Completed chapters: 34/36.
-- Average completed chapter: 1887.53 words.
-- Simple full-book projection at current average: approximately 67951 words; this is an early production signal, not a target revision.
+- Completed chapters: 35/36.
+- Average completed chapter: 1883.03 words.
+- Simple full-book projection at current average: approximately 67789 words; this is an early production signal, not a target revision.
 
 ## Next autonomous step
-Await owner command for Chapter 35. Preserve the frozen architecture.
+Await owner command for Chapter 36. Preserve the frozen architecture.
