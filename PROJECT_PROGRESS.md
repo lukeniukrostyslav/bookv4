@@ -38,4 +38,6 @@ Date: 2026-09-22
 
 P10 = 20%: final-act/epilogue pass plus sequential micro-passes through Chapters 1–6 are documented in the P10 audit; Chapters 4 and 6 received verified targeted edits, while Chapter 5 required no safe change in this pass. The full manuscript still requires the remaining sequential literary pass.
 
+P10 = 20%: final-act/epilogue pass plus sequential micro-passes through Chapters 1–6 are documented in the P10 audit. The full manuscript still requires the remaining sequential literary pass.
+
 Percentages are evidence-based and will be changed only when completion evidence exists.
