@@ -14,7 +14,7 @@ Date: 2026-09-22
 | P7 | Book architecture / outline | 100% |
 | P8 | World / setting / character bible, if fiction | 100% |
 | P9 | Manuscript production | 100% |
-| P10 | Literary editing | 10% |
+| P10 | Literary editing | 15% |
 | P11 | Logic / continuity / fact QA | 0% |
 | P12 | Word-count and structural QA | 0% |
 | P13 | Cover / metadata / positioning | 0% |
