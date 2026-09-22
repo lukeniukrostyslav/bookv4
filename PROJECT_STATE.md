@@ -3,7 +3,7 @@
 Date: 2026-09-22
 
 ## Current phase
-P9 — Manuscript production for approved Concept 9.
+P10 — Literary editing of the completed manuscript.
 
 ## Repository
 lukeniukrostyslav/bookv4
@@ -71,4 +71,4 @@ P8 = 100%. Final audit passed. Character/relationship arcs, locations, atmospher
 - Simple full-book projection at current average: approximately 67789 words; this is an early production signal, not a target revision.
 
 ## Next autonomous step
-P9 manuscript production is complete. Proceed to P10 literary editing, then P11 continuity/fact QA and P12 structural/word-count QA.
+P9 manuscript production is complete. P10 literary editing has started; first focused pass completed on the final-act/epilogue material. Continue P10 sequentially through the manuscript before P11.
