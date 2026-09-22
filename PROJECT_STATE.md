@@ -30,12 +30,12 @@ P8 = 100%. Final audit passed. Character/relationship arcs, locations, atmospher
 36 chapters + epilogue; planning target 80,000–90,000 words. Chapter targets remain flexible around major reversals.
 
 ## P9 production status
-- Chapter 1 — 100% complete (2,083 words).
+- Chapter 1 — 100% complete (2,079 words after P10 edit).
 - Chapter 2 — 100% complete (2,147 words).
 - Chapter 3 — 100% complete (2,239 words).
-- Chapter 4 — 100% complete (1,961 words).
+- Chapter 4 — 100% complete (1,955 words after P10 edit).
 - Chapter 5 — 100% complete (2,284 words).
-- Chapter 6 — 100% complete after editorial cleanup (2,195 words). Duplicated ending beat removed and chapter flow rechecked.
+- Chapter 6 — 100% complete after P10 editorial cleanup (2,182 words). Duplicated ending beat removed and chapter flow rechecked.
 - Chapter 7 — 100% complete (1,999 words).
 - Chapter 8 — 100% complete (2,296 words). Chapter 8 separates the phone event from account/profile attribution and preserves uncertainty around physical presence.
 - Chapter 9 — 100% complete (2,017 words). Chapter 9 separates displayed transport time from registered pickup events and keeps passenger identity unproven.
@@ -64,11 +64,11 @@ P8 = 100%. Final audit passed. Character/relationship arcs, locations, atmospher
 - Chapter 32 — 100% complete (1685 words). Chapter 32 independently observes Daniel's physical archive action, preserves the distinction between observed movement and inferred intent, and reveals a second physical sheet beneath the known document as the next evidence break. No architecture change was made.
 - Chapter 33 — 100% complete (1,292 words). Chapter 33 establishes an independently observed physical contradiction, preserves evidence-versus-inference discipline, records an independent audit trail, and turns the physical archive finding into a basis for the Claire search. No architecture change was made.
 - Chapter 34 — 100% complete (1,545 words). Chapter 34 confirms Claire is alive, preserves her agency and uncertainty, reconnects the sisters without resolving the evidence chain prematurely, and establishes the remaining physical document needed for Chapter 35. No architecture change was made.
-- Chapter 35 — 100% complete (1,730 words). Chapter 36 — 100% complete (1,315 words). Epilogue — 100% complete (547 words). No architecture change was made.
-- Accumulated manuscript including epilogue: 67768 words.
+- Chapter 35 — 100% complete (1,730 words). Chapter 36 — 100% complete (1,315 words). Epilogue — 100% complete (535 words after P10 edit). No architecture change was made.
+- Accumulated manuscript including epilogue: 67692 words after current P10 edits.
 - Completed chapters: 36/36; epilogue complete.
-- Average completed chapter: 1882.44 words.
-- Simple full-book projection at current average: approximately 67789 words; this is an early production signal, not a target revision.
+- Average completed chapter: 1865.47 words.
+- Simple full-book projection at current average: approximately 67157 words for the 36 chapters before epilogue; this is a production signal, not a target revision.
 
 ## Next autonomous step
-P9 manuscript production is complete. P10 literary editing is in progress; final-act/epilogue pass completed and a second micro-pass covered Chapters 1–3. Continue P10 sequentially through the manuscript before P11.
+P9 manuscript production is complete. P10 literary editing is in progress; final-act/epilogue pass completed and sequential micro-passes now cover Chapters 1–6. Chapters 4 and 6 received verified targeted edits; Chapter 5 required no safe change in this pass. Continue P10 sequentially through the manuscript before P11.
