@@ -62,11 +62,12 @@ P8 = 100%. Final audit passed. Character/relationship arcs, locations, atmospher
 - Chapter 30 — 100% complete (1578 words). Chapter 30 moves the test into the physical archive, independently observes Daniel's arrival and personal verification of the original document, and preserves the critical distinction between physical contact, process initiation, and proof of wrongdoing. No architecture change was made.
 - Chapter 31 — 100% complete (1429 words). Chapter 31 locks the bottom-up chronology, separates physical events from attribution, uses a constrained records request to test source knowledge, and ends with a process-driven next physical step. No architecture change was made.
 - Chapter 32 — 100% complete (1685 words). Chapter 32 independently observes Daniel's physical archive action, preserves the distinction between observed movement and inferred intent, and reveals a second physical sheet beneath the known document as the next evidence break. No architecture change was made.
-- Chapter 33 — 100% complete (1292 words). Chapter 33 establishes an independently observed physical contradiction, preserves evidence-versus-inference discipline, records an independent audit trail, and turns the physical archive finding into a basis for the Claire search. No architecture change was made.
-- Accumulated manuscript: 62631 words.
-- Completed chapters: 33/36.
-- Average completed chapter: 1897.91 words.
-- Simple full-book projection at current average: approximately 68325 words; this is an early production signal, not a target revision.
+- Chapter 33 — 100% complete (1,292 words). Chapter 33 establishes an independently observed physical contradiction, preserves evidence-versus-inference discipline, records an independent audit trail, and turns the physical archive finding into a basis for the Claire search. No architecture change was made.
+- Chapter 34 — 100% complete (1545 words). Chapter 34 confirms Claire is alive, preserves her agency and uncertainty, reconnects the sisters without resolving the evidence chain prematurely, and establishes the remaining physical document needed for Chapter 35. No architecture change was made.
+- Accumulated manuscript: 64176 words.
+- Completed chapters: 34/36.
+- Average completed chapter: 1887.53 words.
+- Simple full-book projection at current average: approximately 67951 words; this is an early production signal, not a target revision.
 
 ## Next autonomous step
-Await owner command for Chapter 34. Preserve the frozen architecture.
+Await owner command for Chapter 35. Preserve the frozen architecture.
