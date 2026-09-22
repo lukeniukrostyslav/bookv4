@@ -52,10 +52,11 @@ P8 = 100%. Final audit passed. Character/relationship arcs, locations, atmospher
 - Chapter 20 — 100% complete (1953 words). Chapter 20 tests Daniel's coherent explanation against the physical corridor evidence, separates a plausible administrative story from proof of the physical event, and reveals a Day +1 Building Security correction that shifts the next investigation back to the building record.
 - Chapter 21 — 100% complete (1961 words). Chapter 21 verifies the Building Security correction sequence: the 8:17 event time remains fixed, while Claire's identity attribution appears later after a Day +1 review. Victor provides the correction history without becoming a witness to the physical event, preserving the distinction between event and attribution.
 - Chapter 22 — 100% complete (1960 words). Chapter 22 traces the paper trail behind the Day +1 building correction: the building receives an external identity source, the same identifier appears in an earlier physical file with a different name, and Nora preserves provenance by requesting archival copies and independent verification rather than treating the discovery as proof of intent.
-- Accumulated manuscript: 44,011 words.
-- Completed chapters: 22/36.
-- Average completed chapter: 2,000.50 words.
-- Simple full-book projection at current average: approximately 72,018 words; this is an early production signal, not a target revision.
+- Chapter 23 — 100% complete (2205 words). Chapter 23 moves upstream into the healthcare records setting, identifies an older patient identity behind the reused identifier, separates document date from later profile attribution, and makes the identity-fraud motive concrete without treating Daniel's access as proof of action. Nora requests independent verification and a fuller history of the identifier; no architecture change was made.
+- Accumulated manuscript: 46,216 words.
+- Completed chapters: 23/36.
+- Average completed chapter: 2,009.39 words.
+- Simple full-book projection at current average: approximately 72,338 words; this is an early production signal, not a target revision.
 
 ## Next autonomous step
-Await owner command for Chapter 23. Preserve the frozen architecture.
+Await owner command for Chapter 24. Preserve the frozen architecture.
