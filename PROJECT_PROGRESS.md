@@ -13,7 +13,7 @@ Date: 2026-09-22
 | P6 | Commercial book concept | 100% |
 | P7 | Book architecture / outline | 100% |
 | P8 | World / setting / character bible, if fiction | 100% |
-| P9 | Manuscript production | 50.0% |
+| P9 | Manuscript production | 52.8% |
 | P10 | Literary editing | 0% |
 | P11 | Logic / continuity / fact QA | 0% |
 | P12 | Word-count and structural QA | 0% |
@@ -34,6 +34,6 @@ Date: 2026-09-22
 - P6 = 100%: concept selection, mechanism validation, commercial specification and final exact-title/comparable collision check were completed. Concept 9 is approved; the working title remains replaceable and legal trademark clearance is outside this percentage.
 - P7 = 100%: macro architecture, story engine, evidence timeline, antagonist/suspect map, clue/reveal matrix, emotional arc, 36-chapter outline V2, detailed chapter cards, and final chapter-card freeze audit are complete. The four required refinements were incorporated and verified. P7 architecture is frozen.
 - P8 = 100%: character/world/atmosphere bible, relationship and emotional arcs, key-location/atmosphere map, physical-geography rules, sensory production standard, and final continuity/production-handoff audit are complete. The audit passed with no architecture-blocking defects. Real-world legal/system procedure verification remains correctly deferred to P11.
-- P9 = 47.2%: Chapters 1–18 are produced and saved in manuscript/chapters/. Verified current word counts: Chapter 1 2,083; Chapter 2 2,147; Chapter 3 2,239; Chapter 4 1,961; Chapter 5 2,284; Chapter 6 2,195; Chapter 7 1,999; Chapter 8 2,296; Chapter 9 2,017; Chapter 10 2,002; Chapter 11 2,041; Chapter 12 1,993; Chapter 13 1,484; Chapter 14 1,681; Chapter 15 1,494; Chapter 16 1,870; Chapter 17 1,789; Chapter 18 2,147. Accumulated manuscript is 35,763 words; Chapters 19–36 and the epilogue remain unproduced. Chapter 18 was checked for midpoint function, Claire's pre-disappearance method, POV limits, access-log uncertainty, Daniel setup, continuity with Chapters 15–17, and the P7/P8 mechanism; no architecture change was made.
+- P9 = 47.2%: Chapters 1–19 are produced and saved in manuscript/chapters/. Verified current word counts: Chapter 1 2,083; Chapter 2 2,147; Chapter 3 2,239; Chapter 4 1,961; Chapter 5 2,284; Chapter 6 2,195; Chapter 7 1,999; Chapter 8 2,296; Chapter 9 2,017; Chapter 10 2,002; Chapter 11 2,041; Chapter 12 1,993; Chapter 13 1,484; Chapter 14 1,681; Chapter 15 1,494; Chapter 16 1,870; Chapter 17 1,789; Chapter 18 2,147; Chapter 19 2,374. Accumulated manuscript is 38,137 words; Chapters 20–36 and the epilogue remain unproduced. Chapter 19 was checked for Daniel's limited authority, Claire's prior investigation, POV limits, mechanism continuity, dialogue function, and the P7/P8 handoff; no architecture change was made.
 
 Percentages are evidence-based and will be changed only when completion evidence exists.
