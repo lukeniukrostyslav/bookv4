@@ -56,10 +56,11 @@ P8 = 100%. Final audit passed. Character/relationship arcs, locations, atmospher
 - Chapter 24 — 100% complete (2112 words). Chapter 24 connects Daniel to the origin of the correction chain through a documented initiating request and access history, while preserving the critical distinction between access, initiation, execution and proof of intent. A separate employee completed the first verification; later attribution changes remain unproven as Daniel's direct actions. Nora establishes an evidence standard of finding action rather than merely opportunity; no architecture change was made.
 - Chapter 25 — 100% complete (2057 words). Chapter 25 tests apparent corroboration through Mara, separating what she personally witnessed from what she learned from the current record. Nora establishes that an honest witness can transmit a false conclusion without deception; the chapter reinforces the event-versus-attribution distinction and preserves Daniel as unproven. No architecture change was made.
 - Chapter 26 — 100% complete (2116 words). Chapter 26 raises personal stakes through Daniel's direct pressure without granting him impossible access. He reveals knowledge Nora did not disclose, including the 20:17 time, while attributing his other knowledge to healthcare-system records. Nora responds with procedural discipline, preserves evidence with an independent auditor, and avoids treating Daniel's knowledge as proof of action. The archive correction request becomes the next testable lead. No architecture change was made.
-- Accumulated manuscript: 52,501 words.
-- Completed chapters: 26/36.
-- Average completed chapter: 2,019.27 words.
-- Simple full-book projection at current average: approximately 72,694 words; this is an early production signal, not a target revision.
+- Chapter 27 — 100% complete (1270 words). Chapter 27 completes the bottom-up reconstruction, separates physical events from identity attribution, freezes a independently testable timeline, and identifies the precise unresolved point around the 20:17 event and source of attribution. No architecture change was made.
+- Accumulated manuscript: 53771 words.
+- Completed chapters: 27/36.
+- Average completed chapter: 1991.52 words.
+- Simple full-book projection at current average: approximately 71695 words; this is an early production signal, not a target revision.
 
 ## Next autonomous step
-Await owner command for Chapter 27. Preserve the frozen architecture.
+Await owner command for Chapter 28. Preserve the frozen architecture.
