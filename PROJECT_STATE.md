@@ -51,10 +51,11 @@ P8 = 100%. Final audit passed. Character/relationship arcs, locations, atmospher
 - Chapter 19 — 100% complete (2374 words). Chapter 19 introduces Daniel Mercer as a legitimate Identity Records authority, confirms the propagation mechanism without turning it into a lecture, establishes that Claire had contacted the department before her disappearance, and keeps Daniel's access separate from proof of action or motive.
 - Chapter 20 — 100% complete (1953 words). Chapter 20 tests Daniel's coherent explanation against the physical corridor evidence, separates a plausible administrative story from proof of the physical event, and reveals a Day +1 Building Security correction that shifts the next investigation back to the building record.
 - Chapter 21 — 100% complete (1961 words). Chapter 21 verifies the Building Security correction sequence: the 8:17 event time remains fixed, while Claire's identity attribution appears later after a Day +1 review. Victor provides the correction history without becoming a witness to the physical event, preserving the distinction between event and attribution.
-- Accumulated manuscript: 42,051 words.
-- Completed chapters: 21/36.
-- Average completed chapter: 2,002.43 words.
-- Simple full-book projection at current average: approximately 72,087 words; this is an early production signal, not a target revision.
+- Chapter 22 — 100% complete (1960 words). Chapter 22 traces the paper trail behind the Day +1 building correction: the building receives an external identity source, the same identifier appears in an earlier physical file with a different name, and Nora preserves provenance by requesting archival copies and independent verification rather than treating the discovery as proof of intent.
+- Accumulated manuscript: 44,011 words.
+- Completed chapters: 22/36.
+- Average completed chapter: 2,000.50 words.
+- Simple full-book projection at current average: approximately 72,018 words; this is an early production signal, not a target revision.
 
 ## Next autonomous step
-Await owner command for Chapter 22. Preserve the frozen architecture.
+Await owner command for Chapter 23. Preserve the frozen architecture.
