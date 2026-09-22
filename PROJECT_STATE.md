@@ -53,10 +53,11 @@ P8 = 100%. Final audit passed. Character/relationship arcs, locations, atmospher
 - Chapter 21 — 100% complete (1961 words). Chapter 21 verifies the Building Security correction sequence: the 8:17 event time remains fixed, while Claire's identity attribution appears later after a Day +1 review. Victor provides the correction history without becoming a witness to the physical event, preserving the distinction between event and attribution.
 - Chapter 22 — 100% complete (1960 words). Chapter 22 traces the paper trail behind the Day +1 building correction: the building receives an external identity source, the same identifier appears in an earlier physical file with a different name, and Nora preserves provenance by requesting archival copies and independent verification rather than treating the discovery as proof of intent.
 - Chapter 23 — 100% complete (2205 words). Chapter 23 moves upstream into the healthcare records setting, identifies an older patient identity behind the reused identifier, separates document date from later profile attribution, and makes the identity-fraud motive concrete without treating Daniel's access as proof of action. Nora requests independent verification and a fuller history of the identifier; no architecture change was made.
-- Accumulated manuscript: 46,216 words.
-- Completed chapters: 23/36.
-- Average completed chapter: 2,009.39 words.
-- Simple full-book projection at current average: approximately 72,338 words; this is an early production signal, not a target revision.
+- Chapter 24 — 100% complete (2112 words). Chapter 24 connects Daniel to the origin of the correction chain through a documented initiating request and access history, while preserving the critical distinction between access, initiation, execution and proof of intent. A separate employee completed the first verification; later attribution changes remain unproven as Daniel's direct actions. Nora establishes an evidence standard of finding action rather than merely opportunity; no architecture change was made.
+- Accumulated manuscript: 48,328 words.
+- Completed chapters: 24/36.
+- Average completed chapter: 2,013.67 words.
+- Simple full-book projection at current average: approximately 72,492 words; this is an early production signal, not a target revision.
 
 ## Next autonomous step
-Await owner command for Chapter 24. Preserve the frozen architecture.
+Await owner command for Chapter 25. Preserve the frozen architecture.
