@@ -48,10 +48,11 @@ P8 = 100%. Final audit passed. Character/relationship arcs, locations, atmospher
 - Chapter 16 — 100% complete (1870 words). Chapter 16 reframes the investigation from the destination question to the attribution question, separates physical event time from identity attribution, preserves uncertainty around the source, and establishes the next verifiable question: when and how Claire's name was first attached to the event.
 - Chapter 17 — 100% complete (1789 words). Chapter 17 traces the correction trail backward through physical archive records, distinguishes source correction from downstream automatic propagation, and identifies the Identity Records system as the upstream domain without treating access, action, or motive as equivalent.
 - Chapter 18 — 100% complete (2147 words). Chapter 18 establishes the midpoint: Claire understood the propagation problem before her disappearance; her notes show she was tracing origin rather than accusing downstream systems, and a current access-log entry creates a new present-tense risk without proving surveillance or guilt.
-- Accumulated manuscript: 35,763 words.
-- Completed chapters: 18/36.
-- Average completed chapter: 1,986.83 words.
-- Simple full-book projection at current average: approximately 71,526 words; this is an early production signal, not a target revision.
+- Chapter 19 — 100% complete (2374 words). Chapter 19 introduces Daniel Mercer as a legitimate Identity Records authority, confirms the propagation mechanism without turning it into a lecture, establishes that Claire had contacted the department before her disappearance, and keeps Daniel's access separate from proof of action or motive.
+- Accumulated manuscript: 38,137 words.
+- Completed chapters: 19/36.
+- Average completed chapter: 2,007.21 words.
+- Simple full-book projection at current average: approximately 72,259 words; this is an early production signal, not a target revision.
 
 ## Next autonomous step
-Await owner command for Chapter 19. Preserve the frozen architecture.
+Await owner command for Chapter 20. Preserve the frozen architecture.
