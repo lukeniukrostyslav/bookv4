@@ -58,10 +58,11 @@ P8 = 100%. Final audit passed. Character/relationship arcs, locations, atmospher
 - Chapter 26 — 100% complete (2116 words). Chapter 26 raises personal stakes through Daniel's direct pressure without granting him impossible access. He reveals knowledge Nora did not disclose, including the 20:17 time, while attributing his other knowledge to healthcare-system records. Nora responds with procedural discipline, preserves evidence with an independent auditor, and avoids treating Daniel's knowledge as proof of action. The archive correction request becomes the next testable lead. No architecture change was made.
 - Chapter 27 — 100% complete (1270 words). Chapter 27 completes the bottom-up reconstruction, separates physical events from identity attribution, freezes a independently testable timeline, and identifies the precise unresolved point around the 20:17 event and source of attribution. No architecture change was made.
 - Chapter 28 — 100% complete (1436 words). Chapter 28 connects the identity-fraud mechanism to Claire's pre-disappearance investigation, distinguishes motive evidence from hope, introduces survival indicators as a separate verification track, and establishes that Claire may have disappeared from the records without necessarily disappearing from life. No architecture change was made.
-- Accumulated manuscript: 55207 words.
-- Completed chapters: 28/36.
-- Average completed chapter: 1971.68 words.
-- Simple full-book projection at current average: approximately 70980 words; this is an early production signal, not a target revision.
+- Chapter 29 — 100% complete (1440 words). Chapter 29 protects the evidence, establishes an independently observed baseline, and turns Daniel's legitimate initiation of a new correction request into a testable sequence without equating access or initiation with execution. The physical archive becomes the next verification point. No architecture change was made.
+- Accumulated manuscript: 56647 words.
+- Completed chapters: 29/36.
+- Average completed chapter: 1953.34 words.
+- Simple full-book projection at current average: approximately 70320 words; this is an early production signal, not a target revision.
 
 ## Next autonomous step
-Await owner command for Chapter 29. Preserve the frozen architecture.
+Await owner command for Chapter 30. Preserve the frozen architecture.
