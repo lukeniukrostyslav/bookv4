@@ -47,10 +47,11 @@ P8 = 100%. Final audit passed. Character/relationship arcs, locations, atmospher
 - Chapter 15 — 100% complete (1494 words). Chapter 15 delivers Claire's breadcrumb through correction-history records, reframes the investigation from finding a person in a record to tracing the record's path to a person, and establishes three dated correction requests as a verifiable route without prematurely declaring a common source.
 - Chapter 16 — 100% complete (1870 words). Chapter 16 reframes the investigation from the destination question to the attribution question, separates physical event time from identity attribution, preserves uncertainty around the source, and establishes the next verifiable question: when and how Claire's name was first attached to the event.
 - Chapter 17 — 100% complete (1789 words). Chapter 17 traces the correction trail backward through physical archive records, distinguishes source correction from downstream automatic propagation, and identifies the Identity Records system as the upstream domain without treating access, action, or motive as equivalent.
-- Accumulated manuscript: 33,616 words.
-- Completed chapters: 17/36.
-- Average completed chapter: 1,977.41 words.
-- Simple full-book projection at current average: approximately 71,187 words; this is an early production signal, not a target revision.
+- Chapter 18 — 100% complete (2147 words). Chapter 18 establishes the midpoint: Claire understood the propagation problem before her disappearance; her notes show she was tracing origin rather than accusing downstream systems, and a current access-log entry creates a new present-tense risk without proving surveillance or guilt.
+- Accumulated manuscript: 35,763 words.
+- Completed chapters: 18/36.
+- Average completed chapter: 1,986.83 words.
+- Simple full-book projection at current average: approximately 71,526 words; this is an early production signal, not a target revision.
 
 ## Next autonomous step
-Await owner command for Chapter 18. Preserve the frozen architecture.
+Await owner command for Chapter 19. Preserve the frozen architecture.
