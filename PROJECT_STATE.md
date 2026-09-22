@@ -71,4 +71,4 @@ P8 = 100%. Final audit passed. Character/relationship arcs, locations, atmospher
 - Simple full-book projection at current average: approximately 67789 words; this is an early production signal, not a target revision.
 
 ## Next autonomous step
-P9 manuscript production is complete. P10 literary editing has started; first focused pass completed on the final-act/epilogue material. Continue P10 sequentially through the manuscript before P11.
+P9 manuscript production is complete. P10 literary editing is in progress; final-act/epilogue pass completed and a second micro-pass covered Chapters 1–3. Continue P10 sequentially through the manuscript before P11.
