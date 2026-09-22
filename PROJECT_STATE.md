@@ -60,10 +60,11 @@ P8 = 100%. Final audit passed. Character/relationship arcs, locations, atmospher
 - Chapter 28 — 100% complete (1436 words). Chapter 28 connects the identity-fraud mechanism to Claire's pre-disappearance investigation, distinguishes motive evidence from hope, introduces survival indicators as a separate verification track, and establishes that Claire may have disappeared from the records without necessarily disappearing from life. No architecture change was made.
 - Chapter 29 — 100% complete (1440 words). Chapter 29 protects the evidence, establishes an independently observed baseline, and turns Daniel's legitimate initiation of a new correction request into a testable sequence without equating access or initiation with execution. The physical archive becomes the next verification point. No architecture change was made.
 - Chapter 30 — 100% complete (1578 words). Chapter 30 moves the test into the physical archive, independently observes Daniel's arrival and personal verification of the original document, and preserves the critical distinction between physical contact, process initiation, and proof of wrongdoing. No architecture change was made.
-- Accumulated manuscript: 58225 words.
-- Completed chapters: 30/36.
-- Average completed chapter: 1940.83 words.
-- Simple full-book projection at current average: approximately 69870 words; this is an early production signal, not a target revision.
+- Chapter 31 — 100% complete (1429 words). Chapter 31 locks the bottom-up chronology, separates physical events from attribution, uses a constrained records request to test source knowledge, and ends with a process-driven next physical step. No architecture change was made.
+- Accumulated manuscript: 59654 words.
+- Completed chapters: 31/36.
+- Average completed chapter: 1924.32 words.
+- Simple full-book projection at current average: approximately 69276 words; this is an early production signal, not a target revision.
 
 ## Next autonomous step
-Await owner command for Chapter 31. Preserve the frozen architecture.
+Await owner command for Chapter 32. Preserve the frozen architecture.
