@@ -54,10 +54,11 @@ P8 = 100%. Final audit passed. Character/relationship arcs, locations, atmospher
 - Chapter 22 — 100% complete (1960 words). Chapter 22 traces the paper trail behind the Day +1 building correction: the building receives an external identity source, the same identifier appears in an earlier physical file with a different name, and Nora preserves provenance by requesting archival copies and independent verification rather than treating the discovery as proof of intent.
 - Chapter 23 — 100% complete (2205 words). Chapter 23 moves upstream into the healthcare records setting, identifies an older patient identity behind the reused identifier, separates document date from later profile attribution, and makes the identity-fraud motive concrete without treating Daniel's access as proof of action. Nora requests independent verification and a fuller history of the identifier; no architecture change was made.
 - Chapter 24 — 100% complete (2112 words). Chapter 24 connects Daniel to the origin of the correction chain through a documented initiating request and access history, while preserving the critical distinction between access, initiation, execution and proof of intent. A separate employee completed the first verification; later attribution changes remain unproven as Daniel's direct actions. Nora establishes an evidence standard of finding action rather than merely opportunity; no architecture change was made.
-- Accumulated manuscript: 48,328 words.
-- Completed chapters: 24/36.
-- Average completed chapter: 2,013.67 words.
-- Simple full-book projection at current average: approximately 72,492 words; this is an early production signal, not a target revision.
+- Chapter 25 — 100% complete (2051 words). Chapter 25 tests apparent corroboration through Mara, separating what she personally witnessed from what she learned from the current record. Nora establishes that an honest witness can transmit a false conclusion without deception; the chapter reinforces the event-versus-attribution distinction and preserves Daniel as unproven. No architecture change was made.
+- Accumulated manuscript: 50,379 words.
+- Completed chapters: 25/36.
+- Average completed chapter: 2,015.16 words.
+- Simple full-book projection at current average: approximately 72,546 words; this is an early production signal, not a target revision.
 
 ## Next autonomous step
-Await owner command for Chapter 25. Preserve the frozen architecture.
+Await owner command for Chapter 26. Preserve the frozen architecture.
